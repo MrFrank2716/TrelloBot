@@ -1,3 +1,4 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrFrank2716)](https://github.com/MrFrank2716/github-readme-stats)
 # Trellobot
 A simple Discord bot to log and report events from your Trello boards in your Discord server.
 
