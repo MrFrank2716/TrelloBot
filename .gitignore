@@ -1,6 +1,5 @@
-.auth
+
 .latestActivityID
 node_modules/
 .vscode/
 old-confs/
-conf.json
